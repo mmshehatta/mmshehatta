@@ -8,7 +8,7 @@
 ](https://www.facebook.com/MMShehatta2)
 
 ## Objective
-I am Mahmoud Shehata, a Backend Engineer with 2 years of experience. I am passionate about building scalable and reliable web applications.
+I am Mahmoud Shehata, a Backend Engineer with 2+ years of experience. I am passionate about building scalable and reliable web applications.
 I have a strong understanding of backend development, including database design, Restful APIs, and server configurations.
 I am proficient in programming languages such as Python. 
 I am a results-oriented individual who is always looking for ways to improve and innovate.
